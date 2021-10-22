@@ -1,0 +1,5 @@
+1 b
+2 Più entità possono essere associate ad un'altra entità
+3 DML
+4 a
+5 No
